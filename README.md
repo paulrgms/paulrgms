@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @paulrgms
-- 👀 I’m interested in the topics of Machine Learning, Image Processing and Computer Vision
-- 🌱 I’m currently learning advanced java programming.
-- 💞️ I’m looking to collaborate on java and javascript with backend projects
+- 👀 I’m interested in the topics of Machine Learning and Computer Vision
+- I am very much enthusiast about Business prospects
+- 🌱 I’m currently learning.
+- 💞️ I’m looking to collaborate on different projects
 
 
 <!---
