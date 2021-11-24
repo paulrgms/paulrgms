@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paulrgms
-- I am very much enthusiast about Business prospects
+- I am very much enthusiast about SQA and Product Development with Business Prospects 
 - 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate on different projects
 
